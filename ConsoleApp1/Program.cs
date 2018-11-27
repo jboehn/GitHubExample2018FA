@@ -31,6 +31,9 @@ namespace ConsoleApp1
             // When a change is made, check the pencil on bottom of screen, it logs all changes made
             // click on pencil
             // have to describe what changes were made.
+            // click on committ all and sync
+            // one person will create project and add everyone as contributors to project in github
+            // click on settings and collaborators and add each person by username
         }
     }
 }
