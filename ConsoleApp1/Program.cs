@@ -34,6 +34,8 @@ namespace ConsoleApp1
             // click on committ all and sync
             // one person will create project and add everyone as contributors to project in github
             // click on settings and collaborators and add each person by username
+            // In visual studio, under team explorer, click on clone under local git repositories and copy url of project
+            // any changes made, just click pull
         }
     }
 }
